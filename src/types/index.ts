@@ -8,7 +8,7 @@ export interface DatePair {
 export interface SerpApiAirport {
   name: string;
   id: string;
-  time: string; // e.g. "2026-10-01 10:00"
+  time: string;
 }
 
 /** A single flight segment from SerpAPI */
@@ -31,7 +31,7 @@ export interface SerpApiLayover {
 /** A complete flight result from SerpAPI Google Flights */
 export interface SerpApiFlightResult {
   flights: SerpApiFlight[];
-  layovers: SerpApiLayover[];
+  layovers?: SerpApiLayover[];
   total_duration: number; // minutes
   price: number;
   type: string;
@@ -87,6 +87,26 @@ export interface SearchState {
   lastRunDate: string;
 }
 
+/** Deal tier for a given price */
+export type DealTier = 'exceptional' | 'good' | 'drop' | null;
+
+/** Historical price stats for a route/date */
+export interface HistoricalStats {
+  avg: number;
+  min: number;
+  observations: number;
+}
+
+/** Alternative flight option (for showing top 3 options in email) */
+export interface FlightOption {
+  airline: string;
+  route: string;
+  price: number;
+  totalDuration: number;
+  stops: number;
+  maxLayoverMinutes: number;
+}
+
 /** Email notification payload */
 export interface PriceDropAlert {
   departureDate: string;
@@ -99,4 +119,10 @@ export interface PriceDropAlert {
   totalDuration: number; // minutes
   stops: number;
   maxLayoverMinutes: number;
+  dealTier: DealTier;
+  historicalStats: HistoricalStats | null;
+  /** Is this the very first time we're seeing this date? */
+  isFirstObservation: boolean;
+  /** Top cheapest options from different airlines (includes the primary) */
+  alternatives: FlightOption[];
 }

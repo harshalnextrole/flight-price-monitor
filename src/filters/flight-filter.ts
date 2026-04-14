@@ -11,7 +11,7 @@ function isFlightAcceptable(result: SerpApiFlightResult): boolean {
   // Check total travel time
   if (result.total_duration > CONFIG.MAX_TRAVEL_TIME_MINUTES) return false;
 
-  // Check layover durations
+  // Check layover durations (layovers may be undefined for direct flights)
   for (const layover of (result.layovers ?? [])) {
     if (layover.duration > CONFIG.MAX_LAYOVER_MINUTES) return false;
   }
@@ -40,6 +40,42 @@ export function findCheapestAcceptable(response: SerpApiResponse): SerpApiFlight
 
   acceptable.sort((a, b) => a.price - b.price);
   return acceptable[0];
+}
+
+/**
+ * Return the top N cheapest acceptable flights, each from a DIFFERENT airline
+ * (so we see diversity, not 3 Etihad flights at slightly different prices).
+ */
+export function findTopCheapestByAirline(
+  response: SerpApiResponse,
+  n: number
+): SerpApiFlightResult[] {
+  const allFlights = getAllFlights(response);
+  const acceptable = allFlights.filter(isFlightAcceptable);
+  acceptable.sort((a, b) => a.price - b.price);
+
+  const seen = new Set<string>();
+  const result: SerpApiFlightResult[] = [];
+
+  for (const flight of acceptable) {
+    const airline = getAirline(flight);
+    if (seen.has(airline)) continue;
+    seen.add(airline);
+    result.push(flight);
+    if (result.length >= n) break;
+  }
+
+  return result;
+}
+
+/**
+ * Return ALL acceptable flights sorted by price (for logging/diagnostics).
+ */
+export function getAllAcceptable(response: SerpApiResponse): SerpApiFlightResult[] {
+  const allFlights = getAllFlights(response);
+  const acceptable = allFlights.filter(isFlightAcceptable);
+  acceptable.sort((a, b) => a.price - b.price);
+  return acceptable;
 }
 
 /**
