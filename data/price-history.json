@@ -453,5 +453,18 @@
     "stops": 1,
     "maxLayoverMinutes": 270,
     "checkedAt": "2026-04-17T09:08:17.610Z"
+  },
+  {
+    "id": "1776501341988",
+    "departureDate": "2026-12-10",
+    "returnDate": "2026-12-31",
+    "price": 5213,
+    "currency": "CAD",
+    "airline": "Air Canada",
+    "route": "YYZ-DEL",
+    "totalDuration": 915,
+    "stops": 0,
+    "maxLayoverMinutes": 0,
+    "checkedAt": "2026-04-18T08:35:41.988Z"
   }
 ]
