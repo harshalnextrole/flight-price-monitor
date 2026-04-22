@@ -198,58 +198,58 @@
     "lastUpdated": "2026-04-16T09:07:44.181Z"
   },
   "2026-11-14": {
-    "lowestPrice": 5350,
+    "lowestPrice": 5185,
     "currency": "CAD",
-    "airline": "Etihad",
-    "route": "YYZ-AUH-DEL",
-    "totalDuration": 1085,
+    "airline": "Qatar Airways",
+    "route": "YYZ-DOH-DEL",
+    "totalDuration": 1170,
     "stops": 1,
-    "lastUpdated": "2026-04-16T09:07:53.213Z"
+    "lastUpdated": "2026-04-22T09:10:19.526Z"
   },
   "2026-11-16": {
-    "lowestPrice": 5635,
+    "lowestPrice": 5618,
     "currency": "CAD",
     "airline": "Turkish Airlines",
     "route": "YYZ-IST-DEL",
     "totalDuration": 1360,
     "stops": 1,
-    "lastUpdated": "2026-04-16T09:08:05.842Z"
+    "lastUpdated": "2026-04-22T09:10:29.183Z"
   },
   "2026-11-18": {
-    "lowestPrice": 5998,
+    "lowestPrice": 5997,
     "currency": "CAD",
     "airline": "LOT",
     "route": "YYZ-WAW-DEL",
     "totalDuration": 1200,
     "stops": 1,
-    "lastUpdated": "2026-04-16T09:08:23.073Z"
+    "lastUpdated": "2026-04-22T09:10:41.292Z"
   },
   "2026-11-20": {
-    "lowestPrice": 5998,
+    "lowestPrice": 5997,
     "currency": "CAD",
     "airline": "LOT",
     "route": "YYZ-WAW-DEL",
     "totalDuration": 1200,
     "stops": 1,
-    "lastUpdated": "2026-04-16T09:08:45.091Z"
+    "lastUpdated": "2026-04-22T09:10:59.556Z"
   },
   "2026-11-22": {
-    "lowestPrice": 5998,
+    "lowestPrice": 4739,
     "currency": "CAD",
-    "airline": "LOT",
-    "route": "YYZ-WAW-DEL",
-    "totalDuration": 1200,
+    "airline": "Qatar Airways",
+    "route": "YYZ-DOH-DEL",
+    "totalDuration": 1170,
     "stops": 1,
-    "lastUpdated": "2026-04-16T09:08:57.223Z"
+    "lastUpdated": "2026-04-22T09:11:06.002Z"
   },
   "2026-11-24": {
-    "lowestPrice": 5782,
+    "lowestPrice": 5069,
     "currency": "CAD",
     "airline": "Air Canada",
     "route": "YYZ-YUL-DEL",
-    "totalDuration": 1285,
+    "totalDuration": 1105,
     "stops": 1,
-    "lastUpdated": "2026-04-16T09:09:07.637Z"
+    "lastUpdated": "2026-04-22T09:11:21.172Z"
   },
   "2026-11-26": {
     "lowestPrice": 5204,
