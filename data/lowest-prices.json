@@ -315,12 +315,12 @@
     "lastUpdated": "2026-04-23T09:18:08.016Z"
   },
   "2026-12-10": {
-    "lowestPrice": 5213,
+    "lowestPrice": 5152,
     "currency": "CAD",
     "airline": "Air Canada",
     "route": "YYZ-DEL",
     "totalDuration": 915,
     "stops": 0,
-    "lastUpdated": "2026-04-18T08:35:41.989Z"
+    "lastUpdated": "2026-04-24T09:21:22.379Z"
   }
 }
