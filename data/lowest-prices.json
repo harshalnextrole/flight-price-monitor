@@ -207,13 +207,13 @@
     "lastUpdated": "2026-04-22T09:10:19.526Z"
   },
   "2026-11-16": {
-    "lowestPrice": 5618,
+    "lowestPrice": 5616,
     "currency": "CAD",
     "airline": "Turkish Airlines",
     "route": "YYZ-IST-DEL",
     "totalDuration": 1360,
     "stops": 1,
-    "lastUpdated": "2026-04-22T09:10:29.183Z"
+    "lastUpdated": "2026-04-28T10:04:21.514Z"
   },
   "2026-11-18": {
     "lowestPrice": 5997,
@@ -225,13 +225,13 @@
     "lastUpdated": "2026-04-22T09:10:41.292Z"
   },
   "2026-11-20": {
-    "lowestPrice": 5997,
+    "lowestPrice": 4980,
     "currency": "CAD",
-    "airline": "LOT",
-    "route": "YYZ-WAW-DEL",
-    "totalDuration": 1200,
+    "airline": "Qatar Airways",
+    "route": "YYZ-DOH-DEL",
+    "totalDuration": 1170,
     "stops": 1,
-    "lastUpdated": "2026-04-22T09:10:59.556Z"
+    "lastUpdated": "2026-04-28T10:04:46.339Z"
   },
   "2026-11-22": {
     "lowestPrice": 4739,
