@@ -261,13 +261,13 @@
     "lastUpdated": "2026-04-17T09:07:10.591Z"
   },
   "2026-11-28": {
-    "lowestPrice": 5997,
+    "lowestPrice": 5996,
     "currency": "CAD",
     "airline": "LOT",
     "route": "YYZ-WAW-DEL",
     "totalDuration": 1200,
     "stops": 1,
-    "lastUpdated": "2026-04-23T09:16:51.701Z"
+    "lastUpdated": "2026-04-29T09:56:00.108Z"
   },
   "2026-11-30": {
     "lowestPrice": 5782,
@@ -306,13 +306,13 @@
     "lastUpdated": "2026-04-23T09:17:50.071Z"
   },
   "2026-12-08": {
-    "lowestPrice": 5127,
+    "lowestPrice": 5126,
     "currency": "CAD",
     "airline": "Air Canada",
     "route": "YYZ-LHR-DEL",
     "totalDuration": 1275,
     "stops": 1,
-    "lastUpdated": "2026-04-23T09:18:08.016Z"
+    "lastUpdated": "2026-04-29T09:56:49.319Z"
   },
   "2026-12-10": {
     "lowestPrice": 5152,
