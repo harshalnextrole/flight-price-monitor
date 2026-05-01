@@ -27,22 +27,22 @@
     "lastUpdated": "2026-04-25T08:39:55.391Z"
   },
   "2026-10-07": {
-    "lowestPrice": 4185,
+    "lowestPrice": 4140,
     "currency": "CAD",
     "airline": "Etihad",
     "route": "YYZ-AUH-DEL",
     "totalDuration": 1210,
     "stops": 1,
-    "lastUpdated": "2026-04-14T05:27:53.934Z"
+    "lastUpdated": "2026-05-01T09:25:05.841Z"
   },
   "2026-10-09": {
-    "lowestPrice": 4385,
+    "lowestPrice": 4340,
     "currency": "CAD",
     "airline": "Etihad",
     "route": "YYZ-AUH-DEL",
     "totalDuration": 1210,
     "stops": 1,
-    "lastUpdated": "2026-04-14T05:28:00.065Z"
+    "lastUpdated": "2026-05-01T09:25:22.563Z"
   },
   "2026-10-11": {
     "lowestPrice": 4340,
