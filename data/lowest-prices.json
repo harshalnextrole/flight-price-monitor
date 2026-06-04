@@ -1,1 +1,65 @@
-{}
+{
+  "2026-11-01": {
+    "lowestPrice": 3678,
+    "currency": "CAD",
+    "airline": "Virgin Atlantic",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1130,
+    "stops": 1,
+    "lastUpdated": "2026-06-04T02:20:56.030Z"
+  },
+  "2026-11-03": {
+    "lowestPrice": 3513,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1240,
+    "stops": 1,
+    "lastUpdated": "2026-06-04T02:21:03.664Z"
+  },
+  "2026-11-05": {
+    "lowestPrice": 3664,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1245,
+    "stops": 1,
+    "lastUpdated": "2026-06-04T02:21:11.359Z"
+  },
+  "2026-11-07": {
+    "lowestPrice": 3599,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1245,
+    "stops": 1,
+    "lastUpdated": "2026-06-04T02:21:26.038Z"
+  },
+  "2026-11-09": {
+    "lowestPrice": 3153,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1245,
+    "stops": 1,
+    "lastUpdated": "2026-06-04T02:21:31.287Z"
+  },
+  "2026-11-11": {
+    "lowestPrice": 3329,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1245,
+    "stops": 1,
+    "lastUpdated": "2026-06-04T02:21:42.434Z"
+  },
+  "2026-11-13": {
+    "lowestPrice": 3554,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1240,
+    "stops": 1,
+    "lastUpdated": "2026-06-04T02:21:51.646Z"
+  }
+}
