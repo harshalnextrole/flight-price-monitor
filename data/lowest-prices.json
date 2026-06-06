@@ -45,22 +45,22 @@
     "lastUpdated": "2026-06-04T02:21:31.287Z"
   },
   "2026-11-11": {
-    "lowestPrice": 3329,
+    "lowestPrice": 3289,
     "currency": "CAD",
     "airline": "British Airways",
     "route": "YYZ-LHR-DEL",
     "totalDuration": 1245,
     "stops": 1,
-    "lastUpdated": "2026-06-04T02:21:42.434Z"
+    "lastUpdated": "2026-06-06T09:51:52.482Z"
   },
   "2026-11-13": {
-    "lowestPrice": 3554,
+    "lowestPrice": 3514,
     "currency": "CAD",
     "airline": "British Airways",
     "route": "YYZ-LHR-DEL",
     "totalDuration": 1240,
     "stops": 1,
-    "lastUpdated": "2026-06-04T02:21:51.646Z"
+    "lastUpdated": "2026-06-06T09:52:07.143Z"
   },
   "2026-11-15": {
     "lowestPrice": 3514,
