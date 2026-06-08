@@ -144,13 +144,13 @@
     "lastUpdated": "2026-06-05T11:16:37.495Z"
   },
   "2026-12-03": {
-    "lowestPrice": 3749,
+    "lowestPrice": 3565,
     "currency": "CAD",
     "airline": "Air France",
     "route": "YYZ-CDG-DEL",
     "totalDuration": 1095,
     "stops": 1,
-    "lastUpdated": "2026-06-05T11:16:45.061Z"
+    "lastUpdated": "2026-06-08T12:19:30.281Z"
   },
   "2026-12-05": {
     "lowestPrice": 3946,
