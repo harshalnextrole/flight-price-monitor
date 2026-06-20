@@ -1402,5 +1402,83 @@
     "stops": 1,
     "maxLayoverMinutes": 180,
     "checkedAt": "2026-06-19T11:57:36.489Z"
+  },
+  {
+    "id": "1781951025759",
+    "departureDate": "2026-11-29",
+    "returnDate": "2026-12-20",
+    "price": 3680,
+    "currency": "CAD",
+    "airline": "Virgin Atlantic",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1130,
+    "stops": 1,
+    "maxLayoverMinutes": 180,
+    "checkedAt": "2026-06-20T10:23:45.759Z"
+  },
+  {
+    "id": "1781951032341",
+    "departureDate": "2026-12-01",
+    "returnDate": "2026-12-22",
+    "price": 3848,
+    "currency": "CAD",
+    "airline": "LOT",
+    "route": "YYZ-WAW-DEL",
+    "totalDuration": 1205,
+    "stops": 1,
+    "maxLayoverMinutes": 255,
+    "checkedAt": "2026-06-20T10:23:52.341Z"
+  },
+  {
+    "id": "1781951040973",
+    "departureDate": "2026-12-03",
+    "returnDate": "2026-12-24",
+    "price": 3898,
+    "currency": "CAD",
+    "airline": "LOT",
+    "route": "YYZ-WAW-DEL",
+    "totalDuration": 1205,
+    "stops": 1,
+    "maxLayoverMinutes": 255,
+    "checkedAt": "2026-06-20T10:24:00.973Z"
+  },
+  {
+    "id": "1781951046544",
+    "departureDate": "2026-12-05",
+    "returnDate": "2026-12-26",
+    "price": 3873,
+    "currency": "CAD",
+    "airline": "LOT",
+    "route": "YYZ-WAW-DEL",
+    "totalDuration": 1205,
+    "stops": 1,
+    "maxLayoverMinutes": 255,
+    "checkedAt": "2026-06-20T10:24:06.544Z"
+  },
+  {
+    "id": "1781951053119",
+    "departureDate": "2026-12-07",
+    "returnDate": "2026-12-28",
+    "price": 4030,
+    "currency": "CAD",
+    "airline": "Virgin Atlantic",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1130,
+    "stops": 1,
+    "maxLayoverMinutes": 180,
+    "checkedAt": "2026-06-20T10:24:13.119Z"
+  },
+  {
+    "id": "1781951059462",
+    "departureDate": "2026-12-09",
+    "returnDate": "2026-12-30",
+    "price": 3490,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1230,
+    "stops": 1,
+    "maxLayoverMinutes": 280,
+    "checkedAt": "2026-06-20T10:24:19.462Z"
   }
 ]
