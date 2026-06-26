@@ -153,13 +153,13 @@
     "lastUpdated": "2026-06-08T12:19:30.281Z"
   },
   "2026-12-05": {
-    "lowestPrice": 3668,
+    "lowestPrice": 3667,
     "currency": "CAD",
     "airline": "LOT",
     "route": "YYZ-WAW-DEL",
     "totalDuration": 1205,
     "stops": 1,
-    "lastUpdated": "2026-06-23T10:52:18.310Z"
+    "lastUpdated": "2026-06-26T10:41:58.543Z"
   },
   "2026-12-07": {
     "lowestPrice": 3863,
@@ -171,12 +171,12 @@
     "lastUpdated": "2026-06-23T10:52:25.271Z"
   },
   "2026-12-09": {
-    "lowestPrice": 3490,
+    "lowestPrice": 3365,
     "currency": "CAD",
     "airline": "British Airways",
     "route": "YYZ-LHR-DEL",
     "totalDuration": 1265,
     "stops": 1,
-    "lastUpdated": "2026-06-17T12:08:52.907Z"
+    "lastUpdated": "2026-06-26T10:42:13.591Z"
   }
 }
