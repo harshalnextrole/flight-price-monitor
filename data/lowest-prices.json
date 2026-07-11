@@ -135,13 +135,13 @@
     "lastUpdated": "2026-06-05T11:16:30.320Z"
   },
   "2026-12-01": {
-    "lowestPrice": 3575,
+    "lowestPrice": 3574,
     "currency": "CAD",
     "airline": "LOT",
     "route": "YYZ-WAW-DEL",
     "totalDuration": 1205,
     "stops": 1,
-    "lastUpdated": "2026-06-23T10:52:02.247Z"
+    "lastUpdated": "2026-07-11T09:13:42.698Z"
   },
   "2026-12-03": {
     "lowestPrice": 3565,
