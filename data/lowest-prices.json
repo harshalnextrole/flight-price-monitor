@@ -126,49 +126,49 @@
     "lastUpdated": "2026-06-07T10:20:17.142Z"
   },
   "2026-11-29": {
-    "lowestPrice": 3269,
+    "lowestPrice": 2856,
     "currency": "CAD",
-    "airline": "Virgin Atlantic",
+    "airline": "British Airways",
     "route": "YYZ-LHR-DEL",
-    "totalDuration": 1130,
+    "totalDuration": 1230,
     "stops": 1,
-    "lastUpdated": "2026-06-05T11:16:30.320Z"
+    "lastUpdated": "2026-08-04T10:24:32.952Z"
   },
   "2026-12-01": {
-    "lowestPrice": 3573,
-    "currency": "CAD",
-    "airline": "LOT",
-    "route": "YYZ-WAW-DEL",
-    "totalDuration": 1205,
-    "stops": 1,
-    "lastUpdated": "2026-07-17T09:43:32.787Z"
-  },
-  "2026-12-03": {
-    "lowestPrice": 3565,
-    "currency": "CAD",
-    "airline": "Air France",
-    "route": "YYZ-CDG-DEL",
-    "totalDuration": 1095,
-    "stops": 1,
-    "lastUpdated": "2026-06-08T12:19:30.281Z"
-  },
-  "2026-12-05": {
-    "lowestPrice": 3667,
-    "currency": "CAD",
-    "airline": "LOT",
-    "route": "YYZ-WAW-DEL",
-    "totalDuration": 1205,
-    "stops": 1,
-    "lastUpdated": "2026-06-26T10:41:58.543Z"
-  },
-  "2026-12-07": {
-    "lowestPrice": 3852,
+    "lowestPrice": 2931,
     "currency": "CAD",
     "airline": "British Airways",
     "route": "YYZ-LHR-DEL",
     "totalDuration": 1240,
     "stops": 1,
-    "lastUpdated": "2026-08-01T09:47:21.330Z"
+    "lastUpdated": "2026-08-04T10:24:38.726Z"
+  },
+  "2026-12-03": {
+    "lowestPrice": 3166,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1230,
+    "stops": 1,
+    "lastUpdated": "2026-08-04T10:24:45.166Z"
+  },
+  "2026-12-05": {
+    "lowestPrice": 3031,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1240,
+    "stops": 1,
+    "lastUpdated": "2026-08-04T10:24:51.341Z"
+  },
+  "2026-12-07": {
+    "lowestPrice": 3143,
+    "currency": "CAD",
+    "airline": "British Airways",
+    "route": "YYZ-LHR-DEL",
+    "totalDuration": 1240,
+    "stops": 1,
+    "lastUpdated": "2026-08-04T10:25:01.264Z"
   },
   "2026-12-09": {
     "lowestPrice": 3256,
